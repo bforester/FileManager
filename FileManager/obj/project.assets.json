@@ -793,6 +793,7 @@
       "path": "system.console/4.0.0",
       "files": [
         ".nupkg.metadata",
+        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -2507,24 +2508,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Foresterra\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ekate\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Foresterra\\source\\repos\\ConsoleApp2\\FileManager\\FileManager.csproj",
+      "projectUniqueName": "C:\\Users\\ekate\\source\\repos\\FileManager\\FileManager\\FileManager.csproj",
       "projectName": "FileManager",
-      "projectPath": "C:\\Users\\Foresterra\\source\\repos\\ConsoleApp2\\FileManager\\FileManager.csproj",
-      "packagesPath": "C:\\Users\\Foresterra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Foresterra\\source\\repos\\ConsoleApp2\\FileManager\\obj\\",
+      "projectPath": "C:\\Users\\ekate\\source\\repos\\FileManager\\FileManager\\FileManager.csproj",
+      "packagesPath": "C:\\Users\\ekate\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ekate\\source\\repos\\FileManager\\FileManager\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Foresterra\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ekate\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2532,7 +2528,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -2572,7 +2567,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

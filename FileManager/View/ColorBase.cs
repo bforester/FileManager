@@ -10,6 +10,12 @@ namespace FileManager.View
         public static Color HighlightBackground { get; set; } = Color.GhostWhite;
         public static Color HighlightText { get; set; } = Color.LawnGreen;
         public static Color WarningText { get; set; } = Color.Black;
-        
+
+        public static void SetDeafultColor()
+        {
+            Console.ForegroundColor = DefaultText;
+            Console.BackgroundColor = DefaultBackground;
+
+        }
     }
 }

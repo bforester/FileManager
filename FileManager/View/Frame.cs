@@ -4,6 +4,21 @@ using static FileManager.View.DrawUI;
 
 namespace FileManager.View
 {
+    public enum Line
+    {
+        HorizontalStraightLine = '─',
+        VerticalStraightLine = '│',
+        VerticalSlimLine = '│',
+        Crossbar = '┼',
+        CrossbarLeft = '├',
+        CrossbarRight = '┤',
+        LeftUpLine = '┌',
+        RightUpLine = '┐',
+        LeftDownLine = '└',
+        RightDownLine = '┘',
+        CenterUpLine = '┬',
+        CenterDownLine = '┴',
+    }
     static class Frame
     {
         public static int upLineFrame, downLineFrame;
