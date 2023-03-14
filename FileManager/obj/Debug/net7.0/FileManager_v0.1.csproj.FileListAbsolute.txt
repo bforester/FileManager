@@ -1,0 +1,17 @@
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\bin\Debug\net7.0\FileManager_v0.1.exe
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\bin\Debug\net7.0\FileManager_v0.1.deps.json
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\bin\Debug\net7.0\FileManager_v0.1.runtimeconfig.json
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\bin\Debug\net7.0\FileManager_v0.1.dll
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\bin\Debug\net7.0\FileManager_v0.1.pdb
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\bin\Debug\net7.0\Colorful.Console.dll
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\FileManager_v0.1.csproj.AssemblyReference.cache
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\FileManager_v0.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\FileManager_v0.1.AssemblyInfoInputs.cache
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\FileManager_v0.1.AssemblyInfo.cs
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\FileManager_v0.1.csproj.CoreCompileInputs.cache
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\FileManager_v0.1.csproj.CopyComplete
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\FileManager_v0.1.dll
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\refint\FileManager_v0.1.dll
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\FileManager_v0.1.pdb
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\FileManager_v0.1.genruntimeconfig.cache
+C:\Users\Foresterra\source\repos\ConsoleApp2\FileManager\obj\Debug\net7.0\ref\FileManager_v0.1.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ylgDXdfwF/IqYq6JpgBxqPopnRoCPnbiD7BxSIN6yETQ94zXwPmdo/fFB5Ra2XS6u2YRcl0fErkuIrkNJ7dNBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Foresterra\\source\\repos\\ConsoleApp2\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Foresterra\\.nuget\\packages\\spectre.console\\0.46.0\\spectre.console.0.46.0.nupkg.sha512",
+    "C:\\Users\\Foresterra\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
